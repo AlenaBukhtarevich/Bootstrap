@@ -1,0 +1,9 @@
+.gray-background {
+    background-color: #efefef; /* Серый цвет фона */
+}
+
+.row>* {
+    padding: 0;
+    margin: 0.5%;
+    width: 24%;
+}
